@@ -36,3 +36,16 @@ header{
 #hobbies ul li:nth-child(even) {
     color: #000000;
 }
+
+#gallery{
+    border:2px solid red
+
+}
+
+#gallery img{
+    max-width: 100%;
+}
+
+#gallery figure{
+    text-align:center;
+}
