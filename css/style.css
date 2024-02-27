@@ -38,7 +38,8 @@ header{
 }
 
 #gallery{
-    border:2px solid red
+    border:2px solid #ff0000;
+    margin-bottom: 2rem;
 
 }
 
@@ -48,4 +49,33 @@ header{
 
 #gallery figure{
     text-align:center;
+}
+
+#lit{
+    border:2px solid #ff0000;
+    margin-bottom: 2rem;
+}
+
+#lit div{
+    padding:2rem;
+    max-width: 40rem;
+    margin: 0 auto;
+}
+
+#lit div p {
+    padding:0.3rem 0;
+    clear:both;
+
+}
+
+#lit div p:first-letter {
+color:#ff0000;
+float:left;
+font-size:3em;
+padding:.25em;
+line-height:.65;
+border: 4px outset orange;
+font-family: sans-serif;
+text-shadow: 2px 2px 3px black;
+box-shadow: 5px 5px 5px black;
 }
