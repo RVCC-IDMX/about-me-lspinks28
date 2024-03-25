@@ -112,7 +112,6 @@ figure img{
     max-width: 100%;
     column:20rem;
 }
-
 }
 
 @media screen and (min-width:100em){
@@ -132,6 +131,14 @@ hr{
 figure{
     display: block
 }
+}
 
+#myVideo{
+    display: grid;
+    grid-template-rows: 1fr 1fr 1fr
+}
 
+#video h2{
+    display: grid;
+    grid-template-columns: 2fr 1fr;
 }
