@@ -135,10 +135,19 @@ figure{
 
 #myVideo{
     display: grid;
-    grid-template-rows: 1fr 1fr 1fr
+    grid-template-rows: 1fr 1fr 1fr;
+    border: 2px solid #ff0000;
+    margin-bottom: 2rem;
 }
 
 #video h2{
     display: grid;
     grid-template-columns: 2fr 1fr;
+}
+
+/* Contact Form*/
+
+#formElements{
+    display:grid;
+    text-align:left;
 }
