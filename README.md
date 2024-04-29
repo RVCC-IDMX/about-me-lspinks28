@@ -25,6 +25,12 @@ I've selected a color scheme for my project that embodies both my aesthetic sens
 
 These colors were chosen with care to provide a harmonious and eye-catching design. Here are some illustrations of how these hues are utilized throughout the project: 
 
+## Update for the Image Gallery
+With this version, I've made a lot of enhancements to the image gallery. For more engagement, the photos now include a chic picture frame border and a soft hover effect. In order to guarantee a better layout across a range of screen sizes, the grid template columns have also been modified.
+
+## Updated Profile Photo
+Additionally, I changed the photo on my profile to a more fitting version of myself. The square shape and photographic appearance added to the profile image improves its professionalism and aesthetic appeal.
+
 # Citations
 -Images are obtained from [Unsplash](https://unsplash.com/).
 -Code snippets and inspiration are sourced from various tutorials and documentation, credited within the respective files.

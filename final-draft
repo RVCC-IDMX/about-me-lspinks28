@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -130,7 +130,9 @@
 
         <h2>A Short Video</h2>
 
-        <iframe width="315" height="560" src="https://www.youtube.com/embed/5XiFy3gAAck" title="April 28, 2024" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe section id="myVideo" Width="560" Height="315"
+        src="https://www.youtube.com/embed/gWF9kP9LO2g?si=KqS9OHNcF7Vp00eC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>"
+
     </section>
 
 
@@ -139,12 +141,12 @@
 
         <h2>Contact Us:</h2>
 
-        <Form id="contactfrom" name="contactform" method="post" data-netlify="true">
+        <form id="contactfrom" name="contactform" method="post" data-netlify="true">
 
                 <fieldset>
                     <legend>Contact Form</legend>
 
-                    <div id="FormElements">
+                    <div id="formElements">
                         <!--Name-->
                         <label for="name">Name (required)</label>
                         <input type="text" id="name" name="name" required>
