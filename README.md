@@ -1,41 +1,55 @@
 # About Me
 
-# Netfly status Badge
+## Netlify Status Badge
 [![Netlify Status](https://api.netlify.com/api/v1/badges/20229602-d53a-4116-9ba2-b7a3b3406357/deploy-status)](https://app.netlify.com/sites/about-me-lspinks28/deploys)
 
-# Description
-Greetings from my "About Me" project! This project, which I developed my name is Lawrence Spinks, this project will be an example of my abilities and background in web development. I've developed and used a variety of skills and technologies over this project to make an interesting and educational personal website.
+## Description
+Greetings! I'm Lawrence Spinks, and welcome to my "About Me" project. Here, I showcase my skills and background in web development through an engaging and educational personal website.
 
-I concentrated on efficiently organizing my website's content in the Html area to make sure that it was accessible and easy to use for everyone. I developed my layout and styling abilities through Css, producing an aesthetically pleasing interface that captures my essence.
+I've meticulously organized the content of my website to ensure accessibility and ease of use for all users. Leveraging HTML, I've structured the layout, while CSS allowed me to craft an aesthetically pleasing interface that reflects my personality.
 
-# Color Scheme
-I've selected a color scheme for my project that embodies both my aesthetic sensibilities and personality. The following are the primary colors: 
+## Color Scheme
+For this project, I've curated a color scheme that embodies my aesthetic sensibilities and personality:
 
- **Main Navy**:
+- **Main Navy**:
   - RGB: 35, 57, 92
   - Hex: #23395C
   
- **Accent Orange**:
-  RGB: 239, 147, 24
-  Hex: #EF9318
+- **Accent Orange**:
+  - RGB: 239, 147, 24
+  - Hex: #EF9318
 
- **white smoke**:
- RGB: 245, 245, 245
- Hex: #F5F5F5
+- **White Smoke**:
+  - RGB: 245, 245, 245
+  - Hex: #F5F5F5
 
-These colors were chosen with care to provide a harmonious and eye-catching design. Here are some illustrations of how these hues are utilized throughout the project: 
+These colors harmonize to create an eye-catching design. Here's how they're utilized throughout the project:
 
-## Update for the Image Gallery
-With this version, I've made a lot of enhancements to the image gallery. For more engagement, the photos now include a chic picture frame border and a soft hover effect. In order to guarantee a better layout across a range of screen sizes, the grid template columns have also been modified.
+### Update for the Image Gallery
+In this version, I've enhanced the image gallery with chic picture frame borders and soft hover effects for increased engagement. I've also adjusted the grid template columns to ensure better layout consistency across different screen sizes.
 
-## Updated Profile Photo
-Additionally, I changed the photo on my profile to a more fitting version of myself. The square shape and photographic appearance added to the profile image improves its professionalism and aesthetic appeal.
+### Updated Profile Photo
+Furthermore, I've replaced my profile photo with a more suitable version. The square shape and photographic quality enhance the professionalism and aesthetic appeal of the image.
 
-# Citations
--Images are obtained from [Unsplash](https://unsplash.com/).
--Code snippets and inspiration are sourced from various tutorials and documentation, credited within the respective files.
+## Blog Information
+Visit my website to read the most recent blog post, "Unveiling the Magic of CSS Animation". In this piece, I explore into the fascinating field of CSS animation, examining its applications and offering resources for additional education. Take a look and learn the tricks behind these fascinating online animations!
 
-# Licence
-Under copyright law, every piece of work produced for this project is safe. Please give due credit if you use and modify this content for non-commercial uses. For license inquiries regarding commercial use, please get in touch with me.
- 
+### Resources for CSS Animation:
+1. **MDN Web Docs - CSS Animations**:
+   [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations) 
+
+2. **CSS-Tricks - A Guide to CSS Animation**:
+   [CSS-Tricks](https://css-tricks.com/snippets/css/keyframe-animation-syntax/)
+
+3. **CodePen - CSS Animation Demos**:
+   [CodePen](https://codepen.io/tag/css%20animation) .
+
+## Citations
+- Images sourced from [Unsplash](https://unsplash.com/).
+- Code snippets and inspiration from various tutorials and documentation, credited within respective files.
+
+## License
+All work produced for this project is protected under copyright law. Please provide appropriate credit if you use or modify this content for non-commercial purposes. For inquiries regarding commercial use, feel free to reach out to me.
+
+
 Lawrence Spinks

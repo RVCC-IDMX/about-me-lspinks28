@@ -126,20 +126,76 @@
 
     </article>
 
-    <section id="video">
+    <article class="blog-article">
+        <h2>Unveiling the Magic of CSS Animation</h2>
+        <p>CSS animation is a potent technique in the web development toolbox that may captivate visitors and improve user experience. It enables developers to give life to inanimate objects, grabbing users' attention and directing interaction. Together, we will study and unearth the mysteries of the fascinating world of CSS animation.<p>
+        <h3>What is CSS Animation?</h3>
+        <p>With CSS transitions and keyframes, web items may be animated using CSS animation. In contrast to conventional animation techniques that depend on JavaScript or Flash, CSS animation presents a compact and effective resolution. With its help, developers may add dynamic elements to websites without compromising on speed by animating characteristics like position, size, color, and opacity.<p>
+        <h3>How is CSS Animation Used?</h3>
+        <ul>
+          <li><strong>Enhancing User Engagement:</strong> CSS animations are frequently used to spruce up user interfaces and improve the usability and engagement of interactions. A visitor is captivated and encouraged to explore via CSS animation, which ranges from modest hover effects to eye-catching loading animations.</li>
+          <li><strong>Visual Storytelling:</strong> Developers may visually tell stories and take users on a smooth journey by using CSS animation. Websites can successfully convey tales and create a lasting impression by emphasizing crucial components or animating transitions between information sections.</li>
+          <li><strong>Functional Feedback:</strong>CSS animation has a practical benefit beyond aesthetics by responding to user input. For example, animated form validation messages improve usability and lower errors by providing explicit feedback on user input.</li>
+        </ul>
+      
+        <h3>Resources for CSS Animation:</h3>
+        <ol>
+          <li>
+            <strong>MDN Web Docs - CSS Animations:</strong> 
+            <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations">MDN Web Docs</a> provides thorough explanations of CSS animations, including syntax, use cases, and important principles. It functions as a trustworthy manual for both novice and experienced developers.
+        </li>
+          <li>
+            <strong>CSS-Tricks - A Guide to CSS Animation:</strong>
+            <a href="https://css-tricks.com/snippets/css/keyframe-animation-syntax/">CSS-Tricks</a> offers a helpful tutorial on CSS animation that includes insights into sophisticated methods and imaginative applications. It gives developers the tools they need to become experts at animation with code samples and tutorials.
+        </li>
+          <li>
+            <strong>CodePen - CSS Animation Demos:</strong>
+            <a href="https://codepen.io/tag/css%20animation">CodePen</a> displays a vast array of CSS animation examples made by programmers all over the world. Aspiring animators can find inspiration and experimentation on CodePen, which offers everything from complex effects to experimental animations.
+        </li>
+        </ol>
+      
+        <h3>Crafting CSS Animation:</h3>
+        <p>Let's use a straightforward example to demonstrate the power of CSS animation. Imagine a button that changes color and scales elegantly when the button is hovered over. The CSS code to accomplish this effect is as follows:<p>
+        <pre>
+          <code class="language-css">
+      .button {
+        background-color: #3498db;
+        color: #fff;
+        padding: 10px 20px;
+        border: none;
+        border-radius: 5px;
+        transition: transform 0.3s, background-color 0.3s;
+      }
+      
+      .button:hover {
+        transform: scale(1.1);
+        background-color: #2980b9;
+      }
+          </code>
+        </pre>
+      
+        <p>And here's the button in action:</p>
+        <button class="button">Hover Me</button>
+      
+        <p>The options are unlimited when it comes to CSS animation. With CSS animation, developers may create complex visual experiences or add subtle subtleties that will captivate and please consumers.<p>
+        <p>allow your imagination run wild and allow CSS animation bring your online designs to life!</p>
+      </article>
+      
 
+      <section id="video">
         <h2>A Short Video</h2>
-
-        <iframe width="315" height="560" src="https://www.youtube.com/embed/5XiFy3gAAck" title="April 28, 2024" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <figure>
+            <iframe width="315" height="560" src="https://www.youtube.com/embed/5XiFy3gAAck" title="April 28, 2024" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            <figcaption>This is a video of my friend playing golf</figcaption>
+        </figure>
     </section>
-
 
 
 <section id="contact">
 
         <h2>Contact Us:</h2>
 
-        <form id="contactfrom" name="contactform" method="post" data-netlify="true">
+        <form id="contactForm" name="contactForm" method="post" data-netlify="true">
 
                 <fieldset>
                     <legend>Contact Form</legend>
@@ -172,7 +228,7 @@
 
                         <!--Reply-->
                         <fieldset>
-                            <legend> Would you like a reply?</legend>
+                            <legend>Would you like a reply?</legend>
 
                             <ul>
                                 <li>
