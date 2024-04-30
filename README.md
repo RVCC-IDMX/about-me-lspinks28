@@ -26,13 +26,13 @@ For this project, I've curated a color scheme that embodies my aesthetic sensibi
 These colors harmonize to create an eye-catching design. Here's how they're utilized throughout the project:
 
 ### Update for the Image Gallery
-In this version, I've enhanced the image gallery with chic picture frame borders and soft hover effects for increased engagement. I've also adjusted the grid template columns to ensure better layout consistency across different screen sizes.
+In this version, I've enhanced the image gallery with picture frame borders and soft hover effects for increased engagement. I've also adjusted the grid template columns to ensure better layout consistency across different screen sizes.
 
 ### Updated Profile Photo
-Furthermore, I've replaced my profile photo with a more suitable version. The square shape and photographic quality enhance the professionalism and aesthetic appeal of the image.
+ I've replaced my profile photo with a more suitable version. The square shape and photographic quality enhance the professionalism and aesthetic appeal of the image.
 
 ## Blog Information
-Visit my website to read the most recent blog post, "Unveiling the Magic of CSS Animation". In this piece, I explore into the fascinating field of CSS animation, examining its applications and offering resources for additional education. Take a look and learn the tricks behind these fascinating online animations!
+Visit my website to read the most recent blog post, "Unveiling the Magic of CSS Animation". In this piece, I explore into the fascinating field of CSS animation, examining its applications and offering resources for additional education. Take a look and learn the tricks behind these fascinating online animations.
 
 ### Resources for CSS Animation:
 1. **MDN Web Docs - CSS Animations**:
