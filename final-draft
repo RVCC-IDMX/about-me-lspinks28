@@ -1,4 +1,3 @@
-!DOCTYPE html>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -30,12 +29,16 @@
                 <ul>
                     <li><a href="#bio">Bio</a></li>
                     <li><a href="#gallery">Gallery</a></li>
-                    <li><a href="#lit">Blog</a></li>
-                    <li><a href="#contact">Contact Me</a></li>
+                    <li><a href="#lit">Story</a></li>
+                    <li><a href="#blog-article">Blog</a></li>
+                    <li><a href="#video">Video</a></li>
+                    <li><a href="#contact">Contact Me</a></li>                 
                 </ul>
             </div>
-         </nav>
+        </nav>
+       
     <header>
+    
 
 <main>
 
@@ -127,7 +130,7 @@
 
     </article>
 
-    <article class="blog-article">
+    <article id="blog-article">
         <h2>Unveiling the Magic of CSS Animation</h2>
         <p>CSS animation is a potent technique in the web development toolbox that may captivate visitors and improve user experience. It enables developers to give life to inanimate objects, grabbing users' attention and directing interaction. Together, we will study and unearth the mysteries of the fascinating world of CSS animation.<p>
         <h3>What is CSS Animation?</h3>

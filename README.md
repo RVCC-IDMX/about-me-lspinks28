@@ -44,12 +44,14 @@ Visit my website to read the most recent blog post, "Unveiling the Magic of CSS 
 3. **CodePen - CSS Animation Demos**:
    [CodePen](https://codepen.io/tag/css%20animation) .
 
+## Nav Bar 
+In my bar added links to new sections on my webpage. I tried to add the hamburger icon on my page but I could't get it to work properly for smaller screens such as phones.
+
 ## Citations
 - Images sourced from [Unsplash](https://unsplash.com/).
 - Code snippets and inspiration from various tutorials and documentation, credited within respective files.
 
 ## License
 All work produced for this project is protected under copyright law. Please provide appropriate credit if you use or modify this content for non-commercial purposes. For inquiries regarding commercial use, feel free to reach out to me.
-
 
 Lawrence Spinks
